@@ -1,1 +1,1 @@
-this is type B testing of git and github
+this is type B testing of git and github. This is testing2.
